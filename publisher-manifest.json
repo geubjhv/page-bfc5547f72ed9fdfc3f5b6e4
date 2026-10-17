@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "a8ff341a59681053f228d234",
+  "owner": "geubjhv",
+  "repo": "page-bfc5547f72ed9fdfc3f5b6e4",
+  "title": "Misaka",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bfc5547f72ed9fdfc3f5b6e4",
+      "a": "Misaka",
+      "b": "",
+      "entity": "Misaka",
+      "brand": "Misaka",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7aa4f41ef94e7a70da0482fe44bf156bf5c36b391e55b58324dcf90cac3fc61c",
+      "content": {
+        "keyword1": "Misaka",
+        "keyword2": "",
+        "primary_entity": "Misaka",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Misaka 是一款面向日常探索者的轻量网络订阅服务。我们用克制的价格、稳定的线路和清晰的文档，陪你完成每一次远行。",
+          "AI_DESCRIPTION": "Misaka 是一款面向日常探索者的轻量网络订阅服务。我们用克制的价格、稳定的线路和清晰的文档，陪你完成每一次远行。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  :root {--wine: #6b1f2a;--wine-deep: #4e1620;--ivory: #f6efe3;--ink: #2a1418;--line: #2a1418}\n  * {box-sizing: border-box}\n  html, body {margin: 0;padding: 0}\n  body {background: var(--ivory);color: var(--ink);font-family: \"Helvetica Neue\", Arial, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;line-height: 1.7;font-size: 16px}\n  .shell {display: grid;grid-template-columns: 220px 1fr;min-height: 100vh}\n  nav.side {position: sticky;top: 0;align-self: start;height: 100vh;background: var(--wine);color: var(--ivory);padding: 32px 24px;display: flex;flex-direction: column;gap: 20px}\n  nav.side .brand {font-size: 22px;font-weight: 800;letter-spacing: 2px;border-bottom: 1px solid rgba(246,239,227,0.3);padding-bottom: 16px}\n  nav.side ul {list-style: none;margin: 0;padding: 0;display: flex;flex-direction: column;gap: 14px}\n  nav.side a {color: var(--ivory);text-decoration: none;font-size: 15px;opacity: 0.85;transition: opacity 0.2s}\n  nav.side a:hover {opacity: 1}\n  nav.side .foot {margin-top: auto;font-size: 12px;opacity: 0.6}\n  main {padding: 0}\n  .hero {background: var(--wine);color: var(--ivory);min-height: 100vh;display: flex;flex-direction: column;justify-content: center;padding: 80px 8vw;position: relative}\n  .hero h1 {font-size: clamp(120px, 22vw, 320px);margin: 0;line-height: 0.85;font-weight: 900;letter-spacing: -4px}\n  .hero .tagline {margin-top: 24px;font-size: clamp(18px, 2.4vw, 28px);max-width: 620px;opacity: 0.9}\n  .hero .meta {margin-top: 40px;display: flex;gap: 40px;flex-wrap: wrap;font-size: 14px;opacity: 0.8}\n  section {padding: 80px 8vw;border-bottom: 1px solid rgba(42,20,24,0.12)}\n  h2 {font-size: clamp(28px, 4vw, 44px);margin: 0 0 24px;color: var(--wine-deep);font-weight: 800}\n  h3 {font-size: 20px;margin: 0 0 12px;color: var(--wine)}\n  p {margin: 0 0 16px}\n  .grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));gap: 0}\n  .card {border: 2px solid var(--line);padding: 28px;margin: -2px 0 0 -2px;background: var(--ivory)}\n  .card h3 {margin-top: 0}\n  .plans {display: flex;flex-direction: column;gap: 0;max-width: 900px}\n  .plan {border: 2px solid var(--line);padding: 32px;margin-left: 0;transition: margin-left 0.3s;background: var(--ivory)}\n  .plan:nth-child(1) {margin-left: 0}\n  .plan:nth-child(2) {margin-left: 40px;background: var(--wine);color: var(--ivory)}\n  .plan:nth-child(2) h3, .plan:nth-child(2) .price {color: var(--ivory)}\n  .plan:nth-child(3) {margin-left: 80px}\n  .plan .name {font-size: 14px;letter-spacing: 2px;opacity: 0.7;margin-bottom: 8px}\n  .plan .price {font-size: 32px;font-weight: 800;color: var(--wine-deep);margin-bottom: 8px}\n  .plan .annual {font-size: 13px;opacity: 0.75;margin-bottom: 20px}\n  .plan ul {list-style: none;padding: 0;margin: 0}\n  .plan li {padding: 8px 0;border-top: 1px dashed currentColor;font-size: 15px}\n  .plan li:first-child {border-top: none}\n  .faq-group {margin-bottom: 40px}\n  .faq-group h3 {border-left: 4px solid var(--wine);padding-left: 12px;margin-bottom: 16px}\n  .qa {border: 2px solid var(--line);padding: 20px;margin-bottom: -2px}\n  .qa .q {font-weight: 700;margin-bottom: 8px;color: var(--wine-deep)}\n  .qa .a {font-size: 15px}\n  footer {background: var(--wine-deep);color: var(--ivory);padding: 40px 8vw;font-size: 14px}\n  @media (max-width: 760px) {\n    .shell {grid-template-columns: 1fr}\n    nav.side {position: static;height: auto;flex-direction: row;flex-wrap: wrap;padding: 16px;gap: 12px}\n    nav.side ul {flex-direction: row;flex-wrap: wrap;gap: 12px}\n    nav.side .foot {display: none}\n    .hero {padding: 60px 24px;min-height: 80vh}\n    section {padding: 48px 24px}\n    .plan:nth-child(2) {margin-left: 20px}\n    .plan:nth-child(3) {margin-left: 40px}\n  }\n</style><div class=\"shell\">\n  <nav class=\"side\">\n    <div class=\"brand\">Misaka</div>\n    <ul>\n      <li><a href=\"#start\">首页</a></li>\n      <li><a href=\"#about\">关于我们</a></li>\n      <li><a href=\"#plans\">订阅套餐</a></li>\n      <li><a href=\"#guide\">使用指南</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n    <div class=\"foot\">日常远行，从容出发</div>\n  </nav>\n  <main>\n    <header class=\"hero\" id=\"start\">\n      <h1>Misaka</h1>\n      <p class=\"tagline\">把复杂的网络，留给后台；把干净的线路，交给你。我们做的是那把轻便的钥匙，不是沉重的门。</p>\n      <div class=\"meta\">\n        <span>面向日常探索者</span>\n        <span>轻量订阅 · 稳定线路</span>\n        <span>文档清晰 · 售后真诚</span>\n      </div>\n    </header>\n\n    <section id=\"about\">\n      <h2>为什么是 Misaka</h2>\n      <p>市面上不缺又大又全的服务，缺的是那种\"买完就不太用操心\"的安心感。Misaka 想做的就是这样一件事：用克制的价格、说得清的线路、看得懂的文档，陪你完成每一次远行。</p>\n      <div class=\"grid\">\n        <article class=\"card\">\n          <h3>不堆节点</h3>\n          <p>我们不做节点数量竞赛。精选线路，逐条标注用途，让你清楚每一条在什么场景下值得用。</p>\n        </article>\n        <article class=\"card\">\n          <h3>不绕弯子</h3>\n          <p>订阅链接、客户端配置、常见报错，全部写在文档里。遇到问题先查，查不到再问，省下彼此的时间。</p>\n        </article>\n        <article class=\"card\">\n          <h3>不玩套路</h3>\n          <p>套餐就是套餐，价格就是价格。没有限时折扣的焦虑，也没有\"今日特惠\"的心理战。</p>\n        </article>\n      </div>\n    </section>\n\n    <section id=\"plans\">\n      <h2>订阅套餐</h2>\n      <p>三档套餐，按需选择。年付比月付更划算，但如果你只是想先试试，月付也完全没问题。</p>\n      <div class=\"plans\">\n        <article class=\"plan\">\n          <div class=\"name\">基础版</div>\n          <div class=\"price\">¥15/月</div>\n          <div class=\"annual\">按年付仅需 ¥150/年</div>\n          <ul>\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </article>\n        <article class=\"plan\">\n          <div class=\"name\">旗舰版 · 推荐</div>\n          <div class=\"price\">¥35/月</div>\n          <div class=\"annual\">按年付仅需 ¥350/年</div>\n          <ul>\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7×24 优先工单支持</li>\n          </ul>\n        </article>\n        <article class=\"plan\">\n          <div class=\"name\">团队版</div>\n          <div class=\"price\">¥85/月</div>\n          <div class=\"annual\">按年付仅需 ¥850/年</div>\n          <ul>\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n        </article>\n      </div>\n    </section>\n\n    <section id=\"guide\">\n      <h2>使用指南</h2>\n      <p>从拿到订阅到第一次成功连接，通常只需要几分钟。下面是完整流程，跟着走就行。</p>\n      <div class=\"grid\">\n        <article class=\"card\">\n          <h3>第一步：选择套餐</h3>\n          <p>根据你的使用场景挑一档合适的套餐。如果拿不准，旗舰版是大多数人的选择——流量够、线路全、售后优先。</p>\n        </article>\n        <article class=\"card\">\n          <h3>第二步：获取订阅</h3>\n          <p>付款完成后，系统会自动生成一条专属订阅链接。这条链接是你的凭证，不要公开分享。</p>\n        </article>\n        <article class=\"card\">\n          <h3>第三步：配置客户端</h3>\n          <p>Windows、macOS、Android、iOS 各有适配的客户端。把订阅链接粘进客户端，更新节点列表，选一个延迟低的，连接即可。</p>\n        </article>\n        <article class=\"card\">\n          <h3>第四步：遇到问题</h3>\n          <p>先翻一遍下面的常见问题，大部分小毛病都能自己解决。实在搞不定，就提交工单，我们会尽快回复。</p>\n        </article>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <h2>常见问题</h2>\n\n      <div class=\"faq-group\">\n        <h3>订阅与付款</h3>\n        <div class=\"qa\">\n          <div class=\"q\">月付和年付有什么区别？</div>\n          <div class=\"a\">功能完全一样，只是付费周期不同。年付相当于买十送二，比按月续费便宜一些。如果你打算长期用，年付更划算；如果只是先体验，月付也没问题。</div>\n        </div>\n        <div class=\"qa\">\n          <div class=\"q\">可以随时升级或降级吗？</div>\n          <div class=\"a\">可以。升级套餐时补差价即可生效；降级会在当前周期结束后按新套餐续费。不会强制锁定期限。</div>\n        </div>\n      </div>\n\n      <div class=\"faq-group\">\n        <h3>线路与使用</h3>\n        <div class=\"qa\">\n          <div class=\"q\">不同节点之间有什么区别？</div>\n          <div class=\"a\">节点按延迟、带宽和用途分类。普通节点适合浏览和轻量下载；专线节点适合对延迟敏感的场景，比如游戏和视频会议。文档里有每条线路的建议用途。</div>\n        </div>\n        <div class=\"qa\">\n          <div class=\"q\">流量用完了怎么办？</div>\n          <div class=\"a\">当月流量用完后会限速，不会断线。如果经常不够用，可以考虑升级到更高档位的套餐，或者单独购买流量包。</div>\n        </div>\n      </div>\n\n      <div class=\"faq-group\">\n        <h3>售后与支持</h3>\n        <div class=\"qa\">\n          <div class=\"q\">工单一般多久回复？</div>\n          <div class=\"a\">旗舰版和团队版享有优先工单，通常在几小时内回复；基础版按顺序处理，一般不超过一个工作日。复杂问题可能需要更多时间排查，但不会石沉大海。</div>\n        </div>\n        <div class=\"qa\">\n          <div class=\"q\">如果不满意可以退款吗？</div>\n          <div class=\"a\">如果你在首次订阅的 24 小时内、且使用流量不超过 1GB，可以申请全额退款。续费订单不在退款范围内，请理解。</div>\n        </div>\n      </div>\n    </section>\n\n    <footer>\n      <p>Misaka · 日常远行，从容出发。本站内容为品牌展示，不构成任何形式的服务承诺。使用前请阅读并遵守当地法律法规。</p>\n    </footer>\n  </main>\n</div>",
+          "hash": "437b41cbaebf527a7f5d03be601f88c3f0d75158dda32d817e0bad65a1b45dde",
+          "seo": {
+            "title": "Misaka — 为日常探索而生",
+            "keywords": "Misaka, 网络服务, 订阅套餐, 机场推荐, 客户端下载, 使用教程, 常见问题",
+            "description": "Misaka 是一款面向日常探索者的轻量网络订阅服务。我们用克制的价格、稳定的线路和清晰的文档，陪你完成每一次远行。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "9697",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "leiiwkw.cn",
+    "host": "p-847186f65d.leiiwkw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1a03e05d3fec5281b651270e4eef6657ebe5b074904b75d17b83d5ad0c23ca20",
+    "sitemap.xml": "312fb59a119f1b776f1d1796a14b4b44b686dbc673aa82e34719527df675189f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2e70c1a41d6217e6cb293039812552bb549b48fc7ab171f99a36ec09208f8402",
+    "robots.txt": "efb42de7ab8cfd9be22ef1fd9ae8f53d785c73815bbc9e0e6e14a63cb162aece",
+    "a1417e9d5e32aa9d4b59be3fe9efe05f.txt": "3eaa9b6d4e08fb89122998341f01da1a3826142745146d8377c18a660f2b912b"
+  },
+  "revision": "fd04bfd21ec0b47895c3c303057822ed4f3aa456161ee45b167f1457de43f7e5"
+}
